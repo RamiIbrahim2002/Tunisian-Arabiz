@@ -1,0 +1,3 @@
+text,Predicted Sentiment,Confidence Score,flag,username,timestamp
+,"{""label"": null, ""confidences"": null}","{""label"": null, ""confidences"": null}",,,2024-07-16 19:29:30.651475
+كان جات الدنيا دنيا راني ساهرة في دار حماتي,"{""label"": ""Negative"", ""confidences"": null}","{""label"": ""0.98"", ""confidences"": null}",,,2024-07-16 19:30:40.482555
